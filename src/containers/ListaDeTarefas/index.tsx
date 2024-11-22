@@ -7,6 +7,18 @@ const tarefas = [
     descricao: 'Assistir aula',
     prioridade: 'importante',
     status: 'pendente'
+  },
+  {
+    titulo: 'Pagar conta',
+    descricao: 'Baixa boleto',
+    prioridade: 'normal',
+    status: 'concluída'
+  },
+  {
+    titulo: 'Trocar pneu',
+    descricao: 'Comprar pneu novo',
+    prioridade: 'urgente',
+    status: 'pendente'
   }
 ]
 
